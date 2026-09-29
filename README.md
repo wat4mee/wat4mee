@@ -1,11 +1,11 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammadshahzod&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Hacker%20%E2%80%A2%20Builder%20%E2%80%A2%20Student&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=wat4mee&fontSize=52&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=Hacker%20%E2%80%A2%20Builder%20%E2%80%A2%20Student&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Muhammadshahzod+%F0%9F%91%8B;CIE+student+%40+INHA+University+Tashkent;Cadet+%40+School+21;Pentesting+%E2%80%A2+ESP32+%2F+LoRa+%E2%80%A2+Web+%E2%80%A2+Local+AI;Road+to+OSCP+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi!+I'm+wat4mee+%F0%9F%91%8B;CIE+student+%40+INHA+University+Tashkent;Cadet+%40+School+21;Pentesting+%E2%80%A2+ESP32+%2F+LoRa+%E2%80%A2+Web+%E2%80%A2+Local+AI;Road+to+OSCP+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
