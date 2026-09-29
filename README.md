@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Salom!+I'm+Muhammadshahzod+%F0%9F%91%8B;CIE+student+%40+INHA+University+Tashkent;Cadet+%40+School+21;Pentesting+%E2%80%A2+ESP32+%2F+LoRa+%E2%80%A2+Web+%E2%80%A2+Local+AI;Road+to+OSCP+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi!+I'm+Muhammadshahzod+%F0%9F%91%8B;CIE+student+%40+INHA+University+Tashkent;Cadet+%40+School+21;Pentesting+%E2%80%A2+ESP32+%2F+LoRa+%E2%80%A2+Web+%E2%80%A2+Local+AI;Road+to+OSCP+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadshahzod&label=Profile%20views&color=00ff9c&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=wat4mee&label=Profile%20views&color=00ff9c&style=flat-square" alt="views"/>
   <img src="https://img.shields.io/badge/Tashkent-Uzbekistan-00ff9c?style=flat-square&logo=googlemaps&logoColor=white" alt="location"/>
   <img src="https://img.shields.io/badge/Open%20to-collab-2c5364?style=flat-square&logo=github" alt="collab"/>
 </p>
@@ -27,7 +27,7 @@
 ```c
 #include "me.h"
 
-struct s_dev muhammadshahzod = {
+struct s_dev wat4mee = {
     .location  = "Tashkent, UZ",
     .uni       = "INHA University — SOCIE (CIE)",
     .school    = "School 21 (peer-to-peer)",
@@ -81,16 +81,16 @@ struct s_dev muhammadshahzod = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadshahzod&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadshahzod&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wat4mee&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wat4mee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff9c" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadshahzod&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
+  <img src="https://streak-stats.demolab.com?user=wat4mee&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadshahzod&bg_color=0d1117&color=00ff9c&line=2c5364&point=ffffff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=wat4mee&bg_color=0d1117&color=00ff9c&line=2c5364&point=ffffff&area=true&hide_border=true" />
 </p>
 
 <!-- ===================== SNAKE ===================== -->
@@ -98,8 +98,8 @@ struct s_dev muhammadshahzod = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadshahzod/muhammadshahzod/output/github-contribution-grid-snake-dark.svg">
-    <img alt="snake" src="https://raw.githubusercontent.com/muhammadshahzod/muhammadshahzod/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wat4mee/wat4mee/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/wat4mee/wat4mee/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
